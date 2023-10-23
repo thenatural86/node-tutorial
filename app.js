@@ -1,6 +1,7 @@
 const names = require('./names')
 const sayHi = require('./utils')
-
+const data = require('./alternative')
 // sayHi(secret)
+console.log(data)
 sayHi(names.philip)
 sayHi(names.alice)
