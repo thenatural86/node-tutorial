@@ -1,0 +1,14 @@
+{
+  "name": "node-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "alternative.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
